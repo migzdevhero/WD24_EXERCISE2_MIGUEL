@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #f5efe6ff;
+    color: rgb(54, 54, 54);
+}
+
+main {
+    background-color: #e8dfcaff;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.6rem;
+    width: 80%;
+    margin: 0 auto;
+    padding: 3rem 4rem;
+    font-weight: 400;
+}
+
+#header {
+    color: #7895b2ff;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 600;
+    margin: 2rem auto;
+}
+
+.header-desc {
+    margin: 4rem auto 2rem auto;
+}
+
+.header-desc p {
+    margin: 1rem auto;
+}
+
+a {
+    color: #7895b2ff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #7895b2ff;
+}
+
+#content {
+    
+    margin: 2rem auto;
+}
+
+h2 {
+    text-align: center;
+    color: #7895b2ff;
+    font-size: 2rem;
+    margin: 2rem auto;
+    padding-top: 1rem;
+}
+
+h4 {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+dl {
+    background-color: #f5efe6ff;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+}
+
+dt {
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-bottom: .5rem;
+}
+
+dd {
+    padding-left: 2rem;
+}
+li {
+     list-style-type: none;
+}
+li:first-child {
+    padding-top: .5rem;
+}
+.gif {
+    margin-bottom: 1rem;
+    font-size: .75rem; 
+}
+
+
